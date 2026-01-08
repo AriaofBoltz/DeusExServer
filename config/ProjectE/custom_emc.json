@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:glass",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:basic_mechanical_pipe",
+      "emc": 256
+    },
+    {
+      "item": "gtceu:deepslate_dust",
+      "emc": 2
+    },
+    {
+      "item": "industrialrenewal:catwalk",
+      "emc": 20
+    },
+    {
+      "item": "hostilenetworks:overworld_prediction",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:substrate",
+      "emc": 200
+    },
+    {
+      "item": "projecte:arcana_ring{Mode:0b}",
+      "emc": 10000
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 256
+    },
+    {
+      "item": "sfm:water_tank",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:bucket",
+      "emc": 768
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1767793305441L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 1, z: -47, time: 1767492639003L }
+			{ x: 2, z: -43, time: 1767492639003L }
+			{ x: -1, z: -52, time: 1767492662260L }
+			{ x: -1, z: -46, time: 1767492639003L }
+			{ x: 0, z: -46, time: 1767492639003L }
+			{ x: 2, z: -45, time: 1767492639003L }
+			{ x: -2, z: -44, time: 1767492639003L }
+			{ x: 2, z: -46, time: 1767492639003L }
+			{ x: 1, z: -52, time: 1767492662260L }
+			{ x: 0, z: -43, time: 1767492639003L }
+			{ x: -1, z: -50, time: 1767492639003L }
+			{ x: 0, z: -44, time: 1767492639003L, force_loaded: 1767492672369L }
+			{ x: -2, z: -45, time: 1767492639003L }
+			{ x: 0, z: -50, time: 1767492639003L }
+			{ x: 2, z: -44, time: 1767492639003L }
+			{ x: 0, z: -52, time: 1767492662260L }
+			{ x: 2, z: -51, time: 1767492639003L }
+			{ x: 1, z: -50, time: 1767492639003L }
+			{ x: -1, z: -49, time: 1767492639003L }
+			{ x: 2, z: -47, time: 1767492639003L }
+			{ x: 1, z: -43, time: 1767492639003L, force_loaded: 1767802321981L }
+			{ x: 1, z: -44, time: 1767492639003L, force_loaded: 1767492671903L }
+			{ x: 2, z: -49, time: 1767492639002L }
+			{ x: 4, z: -45, time: 1767492639003L }
+			{ x: 0, z: -47, time: 1767492639002L }
+			{ x: -1, z: -43, time: 1767492639002L }
+			{ x: -2, z: -43, time: 1767492639003L }
+			{ x: -1, z: -44, time: 1767492639001L }
+			{ x: 1, z: -45, time: 1767492639003L, force_loaded: 1767492673158L }
+			{ x: -3, z: -43, time: 1767492639002L }
+			{ x: 1, z: -46, time: 1767492639002L }
+			{ x: 2, z: -48, time: 1767492639002L }
+			{ x: 1, z: -51, time: 1767492639002L }
+			{ x: 2, z: -50, time: 1767492639002L }
+			{ x: -3, z: -45, time: 1767492639002L }
+			{ x: -1, z: -51, time: 1767492639003L }
+			{ x: 3, z: -45, time: 1767492639002L }
+			{ x: 0, z: -48, time: 1767492639003L }
+			{ x: 2, z: -52, time: 1767492662260L }
+			{ x: -3, z: -44, time: 1767492639002L }
+			{ x: -1, z: -48, time: 1767492639003L }
+			{ x: 4, z: -43, time: 1767492639003L }
+			{ x: 1, z: -49, time: 1767492639003L }
+			{ x: 3, z: -44, time: 1767492639003L }
+			{ x: 0, z: -49, time: 1767492639003L }
+			{ x: 1, z: -48, time: 1767492639003L }
+			{ x: -1, z: -47, time: 1767492639003L }
+			{ x: -1, z: -45, time: 1767492639002L }
+			{ x: 0, z: -45, time: 1767492639003L, force_loaded: 1767492672797L }
+			{ x: 3, z: -43, time: 1767492639003L }
+			{ x: 4, z: -44, time: 1767492639003L }
+			{ x: 0, z: -51, time: 1767492639003L }
+		]
+		"javd:void": [{ x: 1, z: -44, time: 1767804895072L, force_loaded: 1767804895831L }]
+	}
+	member_data: {
+		567eee99-4376-3939-9612-9da64e21e48f: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		9fe9143f-8178-300a-b661-850244fb2732: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		8e13f51a-8a1e-3c0b-9747-d881f93c3315: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		f1b61144-644a-302f-96b6-d62530e385b8: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+	prevented_access: {
+		ec5b5875-ebb5-4b47-833b-0de37ac9e6d7: {
+			when: 1767723678336L
+			name: "[IF]"
+		}
+	}
+}
